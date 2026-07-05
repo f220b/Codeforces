@@ -45,7 +45,7 @@ This repo serves as:
 
 ## 🔗 Useful Links
 
-- [Codeforces Profile](https://codeforces.com/profile/your_handle)
+- [Codeforces Profile](https://codeforces.com/profile/f220b)
 - [Codeforces Problemset](https://codeforces.com/problemset)
 
 ## 📝 Notes
