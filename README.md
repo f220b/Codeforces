@@ -6,7 +6,7 @@ A collection of my solutions to problems solved on [Codeforces](https://codeforc
 
 ![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=f220b&theme=dark)
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=f220b)
-![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=f220b&theme=dark)
+![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=f220b)
 
 
 
