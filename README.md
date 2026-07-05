@@ -35,13 +35,15 @@ This repo serves as:
 
 ## 📊 Stats
 
+<!-- STATS_START -->
 | Metric | Count |
 |---|---|
 | Problems Solved | XX |
 | Contests Participated | XX |
 | Current Rating | XXXX |
+<!-- STATS_END -->
 
-*(Update these periodically, or automate with the Codeforces API)*
+*Stats are auto-updated daily via GitHub Actions using the Codeforces API. See `update_stats.py`.*
 
 ## 🔗 Useful Links
 
