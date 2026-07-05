@@ -5,15 +5,7 @@ A collection of my solutions to problems solved on [Codeforces](https://codeforc
 ## 📊 Stats
 
 ![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=f220b&theme=dark)
-
-<!-- STATS_START -->
-| Metric | Count |
-|---|---|
-| Problems Solved | 0 |
-| Contests Participated | 1 |
-| Current Rating | Unrated (unrated) |
-| Max Rating | Unrated |
-<!-- STATS_END -->
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=f220b)
 
 *Stats are auto-updated daily via GitHub Actions using the Codeforces API. See `update_stats.py`.*
 
