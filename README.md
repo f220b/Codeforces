@@ -38,9 +38,10 @@ This repo serves as:
 <!-- STATS_START -->
 | Metric | Count |
 |---|---|
-| Problems Solved | XX |
-| Contests Participated | XX |
-| Current Rating | XXXX |
+| Problems Solved | 0 |
+| Contests Participated | 1 |
+| Current Rating | Unrated (unrated) |
+| Max Rating | Unrated |
 <!-- STATS_END -->
 
 *Stats are auto-updated daily via GitHub Actions using the Codeforces API. See `update_stats.py`.*
