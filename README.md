@@ -4,11 +4,7 @@ A collection of my solutions to problems solved on [Codeforces](https://codeforc
 
 ## 📊 Stats
 
-![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=f220b&theme=dark)
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=f220b)
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=f220b)
-
-
 
 ## 🧠 Purpose
 
