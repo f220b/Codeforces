@@ -4,6 +4,8 @@ A collection of my solutions to problems solved on [Codeforces](https://codeforc
 
 ## 📊 Stats
 
+![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=f220b&theme=dark)
+
 <!-- STATS_START -->
 | Metric | Count |
 |---|---|
